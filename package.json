@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "chai": "^2.3.0",
-    "mocha": "^8.3.2"
+    "mocha": "^10.1.0"
   },
   "bin": "bin/index.js",
   "engines": {
